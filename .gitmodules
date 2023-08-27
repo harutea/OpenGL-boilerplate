@@ -1,0 +1,3 @@
+[submodule "OpenGL-boilerplate/external/glfw"]
+	path = OpenGL-boilerplate/external/glfw
+	url = https://github.com/glfw/glfw
