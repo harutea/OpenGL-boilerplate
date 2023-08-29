@@ -1,5 +1,5 @@
 # OpenGL-boilerplate
-boilerplate for OpenGL
+boilerplate for OpenGL project
 
 # How to build
 ```console
