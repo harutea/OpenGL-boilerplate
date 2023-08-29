@@ -1,3 +1,6 @@
-[submodule "OpenGL-boilerplate/external/glfw"]
-	path = OpenGL-boilerplate/external/glfw
+[submodule "external/glfw"]
+	path = external/glfw
 	url = https://github.com/glfw/glfw
+[submodule "external/linmath.h"]
+	path = external/linmath.h
+	url = https://github.com/datenwolf/linmath.h
