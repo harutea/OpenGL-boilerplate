@@ -28,7 +28,7 @@ target_link_libraries(${PROJECT_NAME} PRIVATE OpenGL::GL)
 
 # glm
 add_subdirectory(${CMAKE_SOURCE_DIR}/external/glm)
-target_link_libraries(<your executable> glm::glm)
+target_link_libraries(${PROJECT_NAME} PRIVATE glm::glm)
 
 # linemath.h
 add_library(linmath INTERFACE)
